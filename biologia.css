@@ -5,11 +5,10 @@
 }
 
 :root {
-    --vermelho: #a23a3a;
+    --preto: #000000;
     --marinho: #275d5c;
     --amarelo-claro: #FFF2AF;
-    --roxo-claro: 
-#D84040;
+    --roxo-claro:#D84040;
     --verde: #000000;
     --azul-claro: 
 #8E1616;
@@ -41,11 +40,11 @@ header {
     display: inline-block;
 }
 
-.botao-disciplinas {--vermelho
+.botao-disciplinas {
     cursor: pointer;
     font-size: 2rem;
     background: none;
-    background-color: var(vermelho);
+    background-color: var(--preto);
     border: none;
     padding: 1.05rem 1.5rem;
     color: var(--roxo-claro);
