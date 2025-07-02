@@ -40,7 +40,7 @@ header {
     display: inline-block;
 }
 
-.botao-disciplinas {
+.botao-disciplinas {--branco;
     cursor: pointer;
     font-size: 2rem;
     background: none;
